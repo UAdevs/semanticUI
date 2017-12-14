@@ -1,0 +1,10 @@
+/**
+ * Created by Dev on 14.12.2017.
+ */
+public class ConsoleLogger implements Logger {
+    @Override
+    public void log(String message) {
+        System.out.println(message);
+    }
+
+}

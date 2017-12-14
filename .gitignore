@@ -1,0 +1,6 @@
+out/*
+*.exe
+.idea/*
+*.iml
+*.class
+target/*
